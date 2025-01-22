@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/jtorresv17/edge-test/main"
+    url: "https://author-p34631-e1321319.adobeaemcloud.com/bin/franklin.delivery/jtorresv17/edge-test/main"
     type: "markup"
     suffix: ".html"
