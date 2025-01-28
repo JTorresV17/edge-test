@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/4/folders/1mdQ9KcdHUIOXlpQHdUhZmi0CRLbWuASJ
+  /: 
+  url: "https://author-p34631-e1321319.adobeaemcloud.com/bin/franklin.delivery/jtorresv17/edge-test/main"
+    type: "markup"
+    suffix: ".html"
